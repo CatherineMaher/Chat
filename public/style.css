@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  margin-top: 10px;
+}
+
+form input {
+  flex: 1;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+button {
+  background-color: cadetblue;
+  padding: 8px;
+  font-family: "Times New Roman", Times, serif;
+  color: azure;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
